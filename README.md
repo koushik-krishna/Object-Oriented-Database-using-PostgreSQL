@@ -1,3 +1,6 @@
+Authors:
+Koushik Modugu
+Eesha Gitay
 
 DESIGN DECISIONS
 
